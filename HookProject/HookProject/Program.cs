@@ -11,9 +11,12 @@ namespace HookProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hey!");
-            Console.WriteLine("Bien!");
-            Console.WriteLine("Mal!");
-            Console.WriteLine("Mal!");
+
+            Console.WriteLine("xd");
+            Console.WriteLine("xd");
+            Console.WriteLine("xd");
+
+
             Console.ReadKey();
         }
     }
