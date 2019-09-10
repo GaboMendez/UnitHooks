@@ -10,7 +10,8 @@ namespace HookProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HEY!");
+            Console.WriteLine("Hey!");
+            Console.WriteLine("Bien!");
             Console.ReadKey();
         }
     }

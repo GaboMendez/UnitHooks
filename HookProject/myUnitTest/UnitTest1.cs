@@ -18,5 +18,18 @@ namespace myUnitTest
 
             Assert.AreEqual(expected, result);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            int a = 1;
+            int b = 1;
+
+            int result = 2;
+
+            int expected = a + b;
+
+            Assert.AreEqual(expected, result);
+        }
     }
 }
